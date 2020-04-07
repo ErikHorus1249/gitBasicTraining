@@ -16,7 +16,12 @@ git reset
 
 branching  git checkout -b features/html-one
 git checkout <branch>
-merging
+merging : A <--- B
+git checkout A
+git merge B
+git branch -d <branch> // xóa một branch 
+
+
 
 
 
