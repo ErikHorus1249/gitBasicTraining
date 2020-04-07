@@ -9,5 +9,9 @@ var cat = {
 
 cat.run();
 
-console,log('con meo dang chay');
+console.log('con meo dang chay');
+
+console.log('con cho biet bay');
+
+
 
