@@ -21,6 +21,12 @@ git checkout A
 git merge B
 git branch -d <branch> // xóa một branch 
 
+git reset to undo commit 
+
+git reset --soft <commit ID>
+
+git reset --mixed
+
 
 
 
