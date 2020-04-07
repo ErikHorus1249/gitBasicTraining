@@ -1,11 +1,16 @@
 git init 
-
 subl .
-
 git add .
 
 git commit
-
 git status
-
 git diff
+
+working directory
+staging are
+git repository
+
+git checkout
+git reset
+
+
