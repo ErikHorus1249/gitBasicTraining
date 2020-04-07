@@ -1,0 +1,7 @@
+git init 
+
+subl .
+
+git add .
+
+git commit
