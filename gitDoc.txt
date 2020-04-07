@@ -15,7 +15,10 @@ git reset
 
 
 branching  git checkout -b features/html-one
+git checkout <branch>
 merging
+
+
 
 
 
