@@ -30,6 +30,12 @@ git reset --mixed
 git revert <commit ID>
 
 
+git remote add origin <link>
+git remote -v
+git push
+
+
+
 
 
 
