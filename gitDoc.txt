@@ -43,6 +43,10 @@ git config --global credential.helper "cache --timeout=18000"
 git clone 
 git pull
 
+// push new branch
+
+git remote add origin <branch>
+
 
 
 
