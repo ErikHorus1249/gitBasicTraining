@@ -47,6 +47,7 @@ git pull
 
 git remote add origin <branch>
 
+git checkout -b test/pushBranch
 
 
 
