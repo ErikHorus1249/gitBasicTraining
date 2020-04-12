@@ -1,4 +1,4 @@
 ### Git và những người bạn 
 
-	-[Hướng dẫn](./gitGuide.md)
+- [Hướng dẫn](./gitGuide.md)
 
