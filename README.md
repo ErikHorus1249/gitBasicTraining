@@ -1,2 +1,4 @@
-This project is just a demo
+### Git và những người bạn 
+
+	-[Hướng dẫn](./gitGuide.md)
 
