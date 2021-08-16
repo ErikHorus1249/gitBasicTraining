@@ -103,7 +103,6 @@ Date : 12/04/2020
 ##### Credit :
 - refence : 
 	- [Git](https://git-scm.com/docs/gittutorial)
-	- [CoderX](https://coders-x.com/)
 	- [GithubTurtorial](https://guides.github.com/activities/hello-world/)
 	- [author](https://github.com/ErikHorus1249)
 
